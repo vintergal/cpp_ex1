@@ -1,5 +1,7 @@
 //vintergal@gmail.com
 
+
+//מצטער... אפצה על זה בעבודות הבאות
 #include "graph.hpp"
 
 
