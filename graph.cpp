@@ -50,6 +50,7 @@ namespace graph
         }
 
         this->edges[from][to]=weight;
+        this->edges[to][from]=weight;
 
     }
     void graph::removeEdge(int from, int to){
@@ -74,6 +75,10 @@ namespace graph
         }
         
 
+    }
+
+    int graph::getNumOfVertices(){
+        return this->num_of_vetrices;
     }
 
     

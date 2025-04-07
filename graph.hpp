@@ -15,5 +15,6 @@
             void addEdge(int from, int to,int weight);
             void removeEdge(int from,int to);
             void printGraph();
+            int getNumOfVertices();
         };
 }
