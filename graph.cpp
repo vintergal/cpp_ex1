@@ -1,3 +1,4 @@
+//vintergal@gmail.com
 #include "graph.hpp"
 namespace graph
 {

@@ -1,3 +1,4 @@
+//vintergal@gmail.com
 namespace graph{
 class algorithms
 {

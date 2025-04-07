@@ -1,3 +1,4 @@
+//vintergal@gmail.com
 #include "algorithms.hpp"
 
 namespace graph
